@@ -12,11 +12,11 @@ const FindUs = () => (
       </h1>
       <div className="app__wrapper-content">
         <p className="p__opensans">
-          Calle Juan Alberto de la Rosa Nº 32, Tacoronte, Tenerife.
+          Lane Ends Bungalow, Whatcroft Hall Lane, Rudheath, CW9 75G
         </p>
         <p
           className="p__cormorant"
-          style={{ color: "DCCA87", margin: "2rem 0" }}
+          style={{ color: "#DCCA87", margin: "2rem 0" }}
         >
           Opening Hours
         </p>
@@ -24,15 +24,16 @@ const FindUs = () => (
         <p className="p__opensans">Sat - Sun: 10:00 am - 03:00 am</p>
       </div>
       <button
+        type="button"
         className="custom__button"
         style={{ marginTop: "2rem" }}
-        type="button"
       >
         Visit Us
       </button>
-      <div className="app__wrapper_img">
-        <img src={images.findus} alt="find us" />
-      </div>
+    </div>
+
+    <div className="app__wrapper_img">
+      <img src={images.findus} alt="finus_img" />
     </div>
   </div>
 );
