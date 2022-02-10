@@ -1,4 +1,4 @@
-Hi everyone! This was my first try reproducing in code a Figma Modern UI/UX Design for a fine dining restaurant. This project was made only with React. I used BEM methodology for CSS and its completely responsive for all devices.
+Hi everyone! This was my first try reproducing in code a Figma Modern UI/UX Design for a fine dining restaurant. This project was made only with React and CSS3 + Flex + Grid. I used BEM methodology for CSS and its completely responsive for all devices.
 
 It wont be appreciated in the screenshots but there are lot of :hover details and I mapped the constants from another archives so I could save lot of lines of code.
 
